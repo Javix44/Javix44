@@ -23,12 +23,16 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas / Technologies & Tools
+ ## 🛠️ Tecnologías y Herramientas / Technologies & Tools
+- 💻 Lenguajes / Languages: `PHP`, `C#`, `SQL`, `Java`, `JavaScript (React)`, `TypeScript (React)`
 
-- 💻 Lenguajes / Languages: `PHP`, `C#`, `SQL`, `Java`
-- 🔧 Herramientas / Tools: XAMPP, MySQL, VS Code, Visual Studio, SQLServer, IntelliJ, Android Studio
-- 🗂️ Metodologías / Methodologies: SCRUM, XP
+- 🔧 Herramientas / Tools: XAMPP, MySQL, PostgreSQL, VS Code, Visual Studio, SQL Server, IntelliJ, Android Studio, Git, GitHub, Postman
 
+- 🗂️ Metodologías / Methodologies: SCRUM, XP, Clean Architecture, CQRS
+
+- 🧰 Librerías y Frameworks / Libraries & Frameworks: React, ASP.NET Core, MediatR, QuestPDF, TCPDF, PHPMailer, Boostrap5, Ant Design, Axios, Entity Framework Core, SringBoot
+
+- 🔍 Testing / Testing: XUnit, Moq
 ---
 
 ## 📊 Estadísticas de GitHub / GitHub Stats
